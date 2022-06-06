@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AlphaVibe" parent="Theme.MaterialComponents.Light.Bridge">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="MyStyle" >
+        <item name="backgroundColor">@color/movieBgColor</item>
+    </style>
+</resources>

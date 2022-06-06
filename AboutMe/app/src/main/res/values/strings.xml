@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Chike</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello, My name is Chike.
+    \n\nI am an inspiring software engineer who is currently under 6 months of internship and I have decided to go into mobile development.
+    \nDuring the past 2 months of my internship,I can proudly say that I have experienced a lot of cool new features and how to make the world a better place and I pray and hope that I would be the best mobile dev once I finish my internship with Qucoon Limited.
+    \nAll I have to do is to put im my best and leave the rest to God for he is the author and finisher of my faith.
+    \n\nNothing is Impossible with him.\n\n</string>
+</resources>
